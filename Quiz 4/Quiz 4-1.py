@@ -1,3 +1,5 @@
+#Sidenote: I will transfer these to a .ipynb file when I get home I can't do that on Replit
+
 import random as rng
 
 while True:
