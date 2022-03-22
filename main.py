@@ -6,3 +6,4 @@ for i in range(10):
   list1.insert(i, rngVal)
 print(f'Your current list is {list1}')
 
+tinyVal = min.list1()
